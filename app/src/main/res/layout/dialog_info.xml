@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:textDirection="rtl">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="توسعه دهنده : سیدعلی طباطبائی"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_margin="5dp"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="ارسال انتقادات و پیشنهادات از طریق راه های ارتباطی زیر : "
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="ایمیل : tabatabaeiali7@gmail.com"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:textIsSelectable="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="ایدی تلگرام : t.me/alitabatabaei_81"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:textIsSelectable="true"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RJ Downloader</string>
+
+    <string name="link">لینک</string>
+    <string name="download_320">دانلود با کیفیت اصلی</string>
+    <string name="download_256">دانلود با کیفیت کاهش یافته</string>
+    <string name="start_download">شروع دانلود ...</string>
+    <string name="update">به روزرسانی</string>
+    <string name="update_message">جهت کارایی بهتر,اپلیکیشن را از منو سپس به روزرسانی,به روز نمایید</string>
+    <string name="txt_null">این مورد نمیتواند خالی باشد</string>
+    <string name="selectType">نوع را انتخاب نمایید</string>
+    <string name="get_info">در حال دریافت اطلاعات از رادیوجوان ...</string>
+    <string name="about">درباره ما</string>
+    <string name="music">موزیک</string>
+    <string name="podcast">پادکست</string>
+    <string name="video">ویدئو</string>
+
+
+    // help
+    <string name="h1">⚫ آموزش استفاده از اپلیکیشن</string>
+    <string name="h2">1- ابتدا اپلیکیشن رادیوجوان را باز کنید </string>
+    <string name="h3">2- سپس داخل صفحه موزیک یا پادکست مورد نظر بر روی سه نقطه بزنید</string>
+    <string name="h4">3- بر روی گزینه اشتراک گذاری بزنید</string>
+    <string name="h5">4- اپلیکیشن RJ Downloader را از لیست نمایش داده شده انتخاب کنید</string>
+    <string name="h6">5- در پایان بر روی یکی از گزینه های دانلود کلیک نماید تا دانلود شروع شود</string>
+</resources>
