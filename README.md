@@ -11,18 +11,10 @@
 . \
 . \
 . 
-:point_right: :point_right: :point_right: [دانلود ویدئو برنامه](https://github.com/alitabatabaei1381/scream/blob/master/ScreenShot/5.mp4) :point_left: :point_left: :point_left:
-. \
-. \
-. \
-. \
-. \
-. \
-. 
 ### تصاویر برنامه : :point_down: :point_down:
 \
 \
-##### ![---](https://raw.githubusercontent.com/alitabatabaei1381/scream/master/ScreenShot/Untitled-1.jpg?raw=true))
+##### ![---](https://raw.githubusercontent.com/alitabatabaei1381/RJ-Downloader/master/ScreenShot/Screenshot_2021-07-12-13-07-35-105_ir.rjdownloader.jpg?raw=true))
 
 .\
 .\
