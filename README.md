@@ -1,6 +1,5 @@
-# رادیوجوان دانلودر
-#### :one: دانلود موزیک و ویدئو و پادکست از اپلیکیشن رادیو جوان
-
+# Radio Javan Downloader
+#### :one: Download music,podcast and music video from radio javan application
 
 
 :point_right: :point_right: :point_right: [دانلود اپلیکیشن](https://github.com/alitabatabaei1381/RJ-Downloader/blob/master/app/release/app-release.apk) :point_left: :point_left: :point_left:
